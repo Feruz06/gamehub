@@ -1,4 +1,6 @@
-## To see this website just click on this link: gamehub-vert.vercel.app
+## To see this website just click on the link below:
+
+gamehub-vert.vercel.app
 
 # React + TypeScript + Vite
 
