@@ -1,6 +1,6 @@
 ## To see this website just click on the link below:
 
-gamehub-vert.vercel.app
+(gamehub-vert.vercel.app)
 
 # React + TypeScript + Vite
 
